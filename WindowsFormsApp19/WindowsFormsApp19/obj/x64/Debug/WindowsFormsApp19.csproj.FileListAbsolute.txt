@@ -1,0 +1,13 @@
+C:\Users\gadji\source\repos\WindowsFormsApp19\WindowsFormsApp19\bin\x64\Debug\WindowsFormsApp19.exe.config
+C:\Users\gadji\source\repos\WindowsFormsApp19\WindowsFormsApp19\bin\x64\Debug\WindowsFormsApp19.exe
+C:\Users\gadji\source\repos\WindowsFormsApp19\WindowsFormsApp19\bin\x64\Debug\WindowsFormsApp19.pdb
+C:\Users\gadji\source\repos\WindowsFormsApp19\WindowsFormsApp19\bin\x64\Debug\AeigisAPI.dll
+C:\Users\gadji\source\repos\WindowsFormsApp19\WindowsFormsApp19\bin\x64\Debug\Guna.UI2.dll
+C:\Users\gadji\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\x64\Debug\WindowsFormsApp19.csproj.AssemblyReference.cache
+C:\Users\gadji\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\x64\Debug\WindowsFormsApp19.Form1.resources
+C:\Users\gadji\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\x64\Debug\WindowsFormsApp19.Properties.Resources.resources
+C:\Users\gadji\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\x64\Debug\WindowsFormsApp19.csproj.GenerateResource.cache
+C:\Users\gadji\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\x64\Debug\WindowsFormsApp19.csproj.CoreCompileInputs.cache
+C:\Users\gadji\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\x64\Debug\WindowsF.E63CBB0B.Up2Date
+C:\Users\gadji\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\x64\Debug\WindowsFormsApp19.exe
+C:\Users\gadji\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\x64\Debug\WindowsFormsApp19.pdb
